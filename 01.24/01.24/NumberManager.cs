@@ -80,4 +80,29 @@ public class NumberManager
         }
         Console.WriteLine($"Numbers after subtraction: {numbersAfterAdding}");
     }
+
+    public void CompareFrequencies()
+    {
+        List<long> matchingNumbers = new List<long>();
+        int result = 0;
+        for (int i = 0; i < leftNumbers.Count; i++)
+        {
+            int target = leftNumbers[i];
+            int count = rightNumbers.Count(n => n == target);
+            result = target * count;
+            matchingNumbers.Add(result);
+        }
+        AddNumbersInMatchingLists(matchingNumbers);
+    }
+
+    public void AddNumbersInMatchingLists(List<long> matchingNumbers)
+    {
+        long numbersAfterAdding = 0;
+        foreach (var number in matchingNumbers)
+        {
+            numbersAfterAdding += number;
+        }
+        Console.WriteLine($"Numbers after adding: {numbersAfterAdding}");
+    }
+    
 }
