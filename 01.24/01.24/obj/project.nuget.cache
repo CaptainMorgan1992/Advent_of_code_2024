@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MEQ+eqo4Vrg=",
+  "success": true,
+  "projectFilePath": "/Users/kimberlymorgan/Desktop/Kod/Advent Of Code/01.24/01.24/01.24.csproj",
+  "expectedPackageFiles": [
+    "/Users/kimberlymorgan/.nuget/packages/htmlagilitypack/1.11.72/htmlagilitypack.1.11.72.nupkg.sha512"
+  ],
+  "logs": []
+}
