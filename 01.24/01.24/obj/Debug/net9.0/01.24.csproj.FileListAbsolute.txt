@@ -15,3 +15,4 @@
 /Users/kimberlymorgan/Desktop/Kod/Advent Of Code/01.24/01.24/obj/Debug/net9.0/01.24.pdb
 /Users/kimberlymorgan/Desktop/Kod/Advent Of Code/01.24/01.24/obj/Debug/net9.0/01.24.genruntimeconfig.cache
 /Users/kimberlymorgan/Desktop/Kod/Advent Of Code/01.24/01.24/obj/Debug/net9.0/ref/01.24.dll
+/Users/kimberlymorgan/Desktop/Kod/Advent Of Code/01.24/01.24/obj/Debug/net9.0/01.24.sourcelink.json
